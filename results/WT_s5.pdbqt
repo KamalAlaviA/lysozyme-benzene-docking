@@ -1,0 +1,126 @@
+MODEL 1
+REMARK VINA RESULT:      -3.6      0.000      0.000
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C   UNL d   1      27.199  14.293  -4.400  0.00  0.00     0.000 A 
+ATOM      2  C   UNL d   1      25.863  14.241  -4.004  0.00  0.00     0.000 A 
+ATOM      3  C   UNL d   1      25.359  15.199  -3.126  0.00  0.00     0.000 A 
+ATOM      4  C   UNL d   1      26.190  16.208  -2.642  0.00  0.00     0.000 A 
+ATOM      5  C   UNL d   1      27.527  16.259  -3.037  0.00  0.00     0.000 A 
+ATOM      6  C   UNL d   1      28.031  15.302  -3.916  0.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -3.6      0.079      1.972
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C   UNL d   1      27.983  15.275  -3.948  0.00  0.00     0.000 A 
+ATOM      2  C   UNL d   1      27.530  16.233  -3.042  0.00  0.00     0.000 A 
+ATOM      3  C   UNL d   1      26.198  16.228  -2.633  0.00  0.00     0.000 A 
+ATOM      4  C   UNL d   1      25.318  15.268  -3.129  0.00  0.00     0.000 A 
+ATOM      5  C   UNL d   1      25.772  14.311  -4.036  0.00  0.00     0.000 A 
+ATOM      6  C   UNL d   1      27.104  14.314  -4.445  0.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -3.6      0.288      1.971
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C   UNL d   1      27.255  16.258  -2.828  0.00  0.00     0.000 A 
+ATOM      2  C   UNL d   1      25.902  16.011  -2.600  0.00  0.00     0.000 A 
+ATOM      3  C   UNL d   1      25.252  14.996  -3.300  0.00  0.00     0.000 A 
+ATOM      4  C   UNL d   1      25.953  14.229  -4.228  0.00  0.00     0.000 A 
+ATOM      5  C   UNL d   1      27.306  14.477  -4.457  0.00  0.00     0.000 A 
+ATOM      6  C   UNL d   1      27.957  15.491  -3.757  0.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -3.5      0.255      1.985
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C   UNL d   1      25.603  14.520  -4.083  0.00  0.00     0.000 A 
+ATOM      2  C   UNL d   1      26.929  14.471  -4.512  0.00  0.00     0.000 A 
+ATOM      3  C   UNL d   1      27.878  15.314  -3.939  0.00  0.00     0.000 A 
+ATOM      4  C   UNL d   1      27.504  16.208  -2.937  0.00  0.00     0.000 A 
+ATOM      5  C   UNL d   1      26.178  16.258  -2.509  0.00  0.00     0.000 A 
+ATOM      6  C   UNL d   1      25.228  15.414  -3.081  0.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -3.5     10.902     11.459
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C   UNL d   1      19.051   6.971  -1.726  0.00  0.00     0.000 A 
+ATOM      2  C   UNL d   1      19.526   6.035  -0.809  0.00  0.00     0.000 A 
+ATOM      3  C   UNL d   1      19.666   6.383   0.533  0.00  0.00     0.000 A 
+ATOM      4  C   UNL d   1      19.331   7.668   0.959  0.00  0.00     0.000 A 
+ATOM      5  C   UNL d   1      18.857   8.604   0.041  0.00  0.00     0.000 A 
+ATOM      6  C   UNL d   1      18.716   8.256  -1.301  0.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -3.5     10.927     11.555
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C   UNL d   1      18.702   8.222  -1.315  0.00  0.00     0.000 A 
+ATOM      2  C   UNL d   1      19.024   6.933  -1.737  0.00  0.00     0.000 A 
+ATOM      3  C   UNL d   1      19.493   5.996  -0.818  0.00  0.00     0.000 A 
+ATOM      4  C   UNL d   1      19.642   6.348   0.523  0.00  0.00     0.000 A 
+ATOM      5  C   UNL d   1      19.320   7.637   0.944  0.00  0.00     0.000 A 
+ATOM      6  C   UNL d   1      18.850   8.574   0.026  0.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -3.5     10.908     11.480
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C   UNL d   1      19.047   6.975  -1.731  0.00  0.00     0.000 A 
+ATOM      2  C   UNL d   1      18.710   8.257  -1.299  0.00  0.00     0.000 A 
+ATOM      3  C   UNL d   1      18.850   8.598   0.045  0.00  0.00     0.000 A 
+ATOM      4  C   UNL d   1      19.325   7.658   0.958  0.00  0.00     0.000 A 
+ATOM      5  C   UNL d   1      19.661   6.375   0.526  0.00  0.00     0.000 A 
+ATOM      6  C   UNL d   1      19.522   6.034  -0.818  0.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -3.5     10.861     11.588
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C   UNL d   1      19.389   7.675   0.955  0.00  0.00     0.000 A 
+ATOM      2  C   UNL d   1      18.925   8.620   0.042  0.00  0.00     0.000 A 
+ATOM      3  C   UNL d   1      18.744   8.268  -1.294  0.00  0.00     0.000 A 
+ATOM      4  C   UNL d   1      19.028   6.972  -1.719  0.00  0.00     0.000 A 
+ATOM      5  C   UNL d   1      19.494   6.026  -0.806  0.00  0.00     0.000 A 
+ATOM      6  C   UNL d   1      19.674   6.377   0.531  0.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -3.5     10.868     11.527
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+ATOM      1  C   UNL d   1      19.652   6.334   0.495  0.00  0.00     0.000 A 
+ATOM      2  C   UNL d   1      19.373   7.606   0.995  0.00  0.00     0.000 A 
+ATOM      3  C   UNL d   1      18.915   8.605   0.139  0.00  0.00     0.000 A 
+ATOM      4  C   UNL d   1      18.737   8.336  -1.217  0.00  0.00     0.000 A 
+ATOM      5  C   UNL d   1      19.017   7.064  -1.717  0.00  0.00     0.000 A 
+ATOM      6  C   UNL d   1      19.474   6.064  -0.861  0.00  0.00     0.000 A 
+ENDROOT
+TORSDOF 0
+ENDMDL
